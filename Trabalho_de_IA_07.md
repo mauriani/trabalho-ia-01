@@ -1,0 +1,3 @@
+# 7. Como pode ser usada uma árvore (de regressão ou de decisão) para avaliar uma amostra quando ela possui uma ou mais variáveis faltantes?
+
+    Ao trabalhar com dados reais, pode gerar problemas como a presença de valores faltantes. Eles surgem por razões que variam desde erros de coleta e perda de informações até as características dos próprios dados. Ao usar modelos de machine learning para analisar esses dados, como árvores de decisão, valores faltantes podem prejudicar as previsões do modelo. No entanto, devido à estrutura hierárquica das árvores e a robustez a outliers  elas são relativamente resistentes a valores faltantes. Ou seja, mesmo na ausência de informações completas sobre a observação, o modelo pode continuar tomando decisões locais.
